@@ -1,2 +1,3 @@
-# Binaural-Beats-Android-App
-An Android app built with Kotlin and Jetpack Compose to generate binaural beats for focus, relaxation, meditation, and sleep. Includes preset frequencies, customizable tone control, and modern UI using Material 3. Ideal for enhancing mental states through brainwave entrainment.
+
+# Binuarualbeats
+ Binaural beats are special sounds that can entrain your brainwaves to specific frequencies, leading to a variety of benefits this app includes 10 different types of binaural beats and optimized adMob ads
